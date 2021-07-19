@@ -1,9 +1,12 @@
+import TopBar from "./topbar/TopBar";
+import Home from "./pages/home/Home";
 
 const App = () => {
   return (
-    <div className="App">
-      blog app
-    </div>
+    <>
+      <TopBar />
+      <Home />
+    </>
   )
 }
 
