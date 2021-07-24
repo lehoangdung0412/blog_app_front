@@ -1,5 +1,5 @@
 import "./topbar.css";
-import avt from "../media/images/avt.jpeg";
+import avt from "../../media/images/avt.jpeg";
 
 export default function TopBar() {
     return (
